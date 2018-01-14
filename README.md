@@ -9,7 +9,7 @@
 
 * [Esprit](https://github.com/giancosta86/Esprit) - to perform Data Mining analysis using Rayon
 
-* [Marianne](http://gianlucacosta.info/Marianne/) - a user-friendly website, with a related Facebook page, to learn French - not only the language, but the culture as well
+* [Marianne](https://github.com/giancosta86/Marianne) - a user-friendly website, with a related Facebook page, to learn French - not only the language, but the culture as well
 
 
 You are all invited to visit [Elysium's Facebook page](https://www.facebook.com/Elysium-Exploring-French-1864049787240701/) as well! ^\_\_^
